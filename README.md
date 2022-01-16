@@ -31,3 +31,4 @@
 
 ### :books: Books I wanna look into
 - Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series
+- Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More
