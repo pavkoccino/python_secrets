@@ -24,4 +24,4 @@
 - import unittest
 
 ### Thoughts
-- Id inversion of control/depednency injection needed in python?
+- Is inversion of control/depednency injection needed in python?
