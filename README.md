@@ -22,3 +22,6 @@
 - import os
 - import jira
 - import unittest
+
+### Thoughts
+- Id inversion of control/depednency injection needed in python?
