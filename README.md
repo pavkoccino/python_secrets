@@ -17,11 +17,11 @@
 - get back to **kwargs.
 
 ### Modules I used in my life
-- import json
-- import timeit
-- import os
-- import jira
-- import unittest
+- json
+- timeit
+- os
+- jira
+- unittest
 
 ### Thoughts
 - Is inversion of control/depednency injection needed in python?
@@ -30,5 +30,8 @@
 - Python Crash Course
 
 ### :books: Books I wanna look into
-- Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series
+- Effective Python: 59 Specific Ways to Write Better Python (Effective Software Development Series)
 - Serious Python: Black-Belt Advice on Deployment, Scalability, Testing, and More
+
+### 📹 Good tutorials/videos
+- [Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course]](https://www.youtube.com/watch?v=s8XjEuplx_U&ab_channel=freeCodeCamp.org)
