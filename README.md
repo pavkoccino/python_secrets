@@ -10,18 +10,10 @@
 - Python allows multiple inheritance.
 - Write tests for code's critical behaviros and then aim for the full coverage only if the project has a widespread use.
 
-
 ### What I need to learn
 - Abstact classes.
 - stub files (.pyi).
 - get back to **kwargs.
-
-### Modules I used in my life
-- json
-- timeit
-- os
-- jira
-- unittest
 
 ### Thoughts
 - Is inversion of control/depednency injection needed in python?
