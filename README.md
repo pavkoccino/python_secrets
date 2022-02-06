@@ -27,3 +27,4 @@
 
 ### 📹 Good tutorials/videos
 - [Python Automation Tutorial – How to Automate Tasks for Beginners [Full Course]](https://www.youtube.com/watch?v=s8XjEuplx_U&ab_channel=freeCodeCamp.org)
+- [Creating a Zelda style game in Python [with some Dark Souls elements]](https://www.youtube.com/watch?v=QU1pPzEGrqw&ab_channel=ClearCode)
